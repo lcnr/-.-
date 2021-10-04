@@ -1,3 +1,3 @@
-I am using Rust, money pls
+I am using Rust
 
 [back](https://github.com/rust-lang/rust/)
